@@ -101,4 +101,4 @@ Given below are the example of user input and assitant output, pay attention to 
     </assistant:output>
 </example>
 
-Student Input: Bear are at the door, did you leave the garbage out?.
+Student Input: Did you see the raven this morning? They were looking at our garden.
